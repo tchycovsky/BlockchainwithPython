@@ -14,10 +14,6 @@ The complete code for sending this transaction is in wallet.py. The specific par
 
 2. Using Ethereum testnet 
 
-Include installing pip dependencies using requirements.txt, as well as cloning and installing hd-wallet-derive.
-You may include the hd-wallet-derive folder in your repo, but still include the install instructions. You do not
-need to include Python or PHP installation instructions.
-
 
 Upload the project to a new GitHub repository.
 
